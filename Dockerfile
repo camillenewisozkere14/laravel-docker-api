@@ -6,7 +6,7 @@ FROM php:8.1-apache-buster as production
 RUN echo "ServerName 0.0.0.0" >> /etc/apache2/apache2.conf
 
 ENV APP_ENV=production
-ENV APP_DEBUG=true
+ENV APP_DEBUG=false
 
 RUN docker-php-ext-configure opcache --enable-opcache && \
     docker-php-ext-install pdo pdo_mysql
