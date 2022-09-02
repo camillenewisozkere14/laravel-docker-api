@@ -9,6 +9,6 @@ class HelloController extends Controller
     // 
     public function hello()
     {
-        return response()->json("Hello from Laravel & Docker!");
+        return response()->json(["message" => "Hello from Larvel & Docker!"], 200);
     }
 }
