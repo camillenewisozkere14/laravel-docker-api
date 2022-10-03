@@ -17,10 +17,9 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-%ffE34F26.svg?style=flat&logo=python&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/PHP-%231572B6.svg?style=flat&logo=php&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=flat&logo=laravel&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?style=flat&logo=docker&logoColor=white">
 </p>
 
 <br/>
